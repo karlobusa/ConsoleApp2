@@ -10,5 +10,10 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Nesto");
         }
+
+        void praznaMetoda()
+        {
+
+        }
     }
 }
