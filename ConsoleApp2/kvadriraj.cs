@@ -14,7 +14,7 @@ namespace ConsoleApp2
 
         void praznaMetoda()
         {
-
+            //nesto drugo
         }
     }
 }
