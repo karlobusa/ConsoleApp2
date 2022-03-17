@@ -9,6 +9,7 @@ namespace ConsoleApp2
         void ispis()
         {
             Console.WriteLine("Nesto");
+            //komentar
         }
     }
 }
